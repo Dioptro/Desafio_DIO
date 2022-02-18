@@ -1,0 +1,19 @@
+#title,
+.subtitle,
+.post_title {
+  color: blue;
+}
+
+title {
+  font-size: xx-large;
+  font-style: oblique;
+}
+.subtitle {
+  font-style: italic;
+  font-size: 50px;
+}
+
+.post_title {
+  font-style: unset;
+  font-size: 30px;
+}
